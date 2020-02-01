@@ -1,2 +1,0 @@
-# dataminingproject
-data mining  
